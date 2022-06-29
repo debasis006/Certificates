@@ -1,5 +1,7 @@
 # Certificates
 
-## Python for Everybody Certificate
+## Python for everybody
 
-## Web Design for Everybody Certificate
+## Web design for everybody
+
+## Problem solving programming through C
