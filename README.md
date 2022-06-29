@@ -1,2 +1,3 @@
-# Python-for-Everybody-Certificate
+# Certificates
 Python for Everybody Certificate
+Web Design for Everybody Certificate
